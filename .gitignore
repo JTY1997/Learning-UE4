@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
-
+#Android
+*.obb.png
+*.obb
+*.apk
 # Compiled Object files
 *.slo
 *.lo
