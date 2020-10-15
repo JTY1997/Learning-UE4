@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\TryoneTry\\Source\\TryoneTry\\TryoneTry.Build.cs",
+		"D:\\Unreal Projects\\TryoneTry\\Source\\TryoneTry.Target.cs",
+		"D:\\Unreal Projects\\TryoneTry\\Source\\TryoneTryEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

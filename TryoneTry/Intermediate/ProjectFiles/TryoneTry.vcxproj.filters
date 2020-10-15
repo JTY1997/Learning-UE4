@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TryoneTry.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D4A2DAE5-C237-44BC-9E94-38060123B939}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TryoneTry.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TryoneTryEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{DDAF8A97-3BE2-48BF-A8B3-230F0D67A414}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TryoneTry">
+      <UniqueIdentifier>{A308E813-2AAB-4B36-9EE6-9F0C7D678737}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TryoneTry\TryoneTry.Build.cs">
+      <Filter>Source\TryoneTry</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TryoneTry\TryoneTry.cpp">
+      <Filter>Source\TryoneTry</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TryoneTry\TryoneTry.h">
+      <Filter>Source\TryoneTry</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TryoneTry\TryoneTryCharacter.cpp">
+      <Filter>Source\TryoneTry</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TryoneTry\TryoneTryCharacter.h">
+      <Filter>Source\TryoneTry</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TryoneTry\TryoneTryGameMode.cpp">
+      <Filter>Source\TryoneTry</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TryoneTry\TryoneTryGameMode.h">
+      <Filter>Source\TryoneTry</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
