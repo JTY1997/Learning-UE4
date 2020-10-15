@@ -4,6 +4,7 @@
 *.obb.png
 *.obb
 *.apk
+*.pak
 # Compiled Object files
 *.slo
 *.lo
