@@ -32,8 +32,8 @@
 /wd4244
 /wd4838
 /I .
-/I "D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\UE4Editor\Inc\TryoneTry"
-/I "D:\Unreal Projects\TryoneTry\Source"
+/I "E:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\UE4Editor\Inc\TryoneTry"
+/I "E:\Unreal Projects\TryoneTry\Source"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -266,9 +266,9 @@
 /FI"D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /Yu"D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /Fp"D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\Unreal Projects\TryoneTry\Source\TryoneTry\TryoneTry.cpp"
-/FI"D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\UE4Editor\Development\TryoneTry\Definitions.TryoneTry.h"
-/Fo"D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\UE4Editor\Development\TryoneTry\TryoneTry.cpp.obj"
+"E:\Unreal Projects\TryoneTry\Source\TryoneTry\TryoneTry.cpp"
+/FI"E:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\UE4Editor\Development\TryoneTry\Definitions.TryoneTry.h"
+/Fo"E:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\UE4Editor\Development\TryoneTry\TryoneTry.cpp.obj"
 /TP
 /GR-
 /W4
