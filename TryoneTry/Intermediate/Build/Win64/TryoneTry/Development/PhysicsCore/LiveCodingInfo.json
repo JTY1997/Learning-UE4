@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PhysicsCore.cpp.obj": [
+			"ChaosInterfaceWrapperCore.cpp.obj",
+			"ChaosSQTypes.cpp.obj",
+			"PhysicsCore.cpp.obj",
+			"PhysicsCoreModule.cpp.obj",
+			"PhysicsInitialization.cpp.obj",
+			"PhysicsInterfaceUtilsCore.cpp.obj",
+			"PhysTestSerializer.cpp.obj",
+			"PhysXLibs.cpp.obj",
+			"PhysXPublicCore.cpp.obj",
+			"PhysXSupportCore.cpp.obj",
+			"SQCapture.cpp.obj"
+		],
+		"Module.PhysicsCore.gen.cpp.obj": [
+			"PhysicsCore.init.gen.cpp.obj",
+			"PhysicsCoreTypes.gen.cpp.obj"
+		]
+	}
+}

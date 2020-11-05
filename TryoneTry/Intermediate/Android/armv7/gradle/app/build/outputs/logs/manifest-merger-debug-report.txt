@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from Z:\app\src\main\AndroidManifest.xml:1:1-57:12
-INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-57:12
-INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-57:12
-INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-57:12
+ADDED from Z:\app\src\main\AndroidManifest.xml:1:1-58:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-58:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-58:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-58:12
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\54146\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:17:1-39:12
 MERGED from [com.google.android.gms:play-services-games:11.8.0] C:\Users\54146\.gradle\caches\transforms-2\files-2.1\e54006f14c0e0baea8c96b5e4c3e86dd\play-services-games-11.8.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-nearby:11.8.0] C:\Users\54146\.gradle\caches\transforms-2\files-2.1\d684158af88fc486125ef024abe816e3\play-services-nearby-11.8.0\AndroidManifest.xml:2:1-11:12
@@ -40,9 +40,9 @@ MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\
 MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\54146\.gradle\caches\transforms-2\files-2.1\dcdd92dcd245a587ca0c73f9be16aebd\play-services-basement-license-11.8.0\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\54146\.gradle\caches\transforms-2\files-2.1\26f4e7573a31d14d374c943fd7881445\play-services-tasks-license-11.8.0\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-drive-license:11.8.0] C:\Users\54146\.gradle\caches\transforms-2\files-2.1\12c9ab5d03d8bbcaebf326c64e2f615c\play-services-drive-license-11.8.0\AndroidManifest.xml:2:1-6:12
-INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-57:12
-INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-57:12
-INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-57:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-58:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-58:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-58:12
 	package
 		ADDED from Z:\app\src\main\AndroidManifest.xml:1:70-105
 		INJECTED from Z:\app\src\main\AndroidManifest.xml
@@ -234,9 +234,9 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:24:5-111
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:24:16-80
 meta-data#com.epicgames.ue4.GameActivity.CookedFlavors
-ADDED from Z:\app\src\main\AndroidManifest.xml:25:5-108
+ADDED from Z:\app\src\main\AndroidManifest.xml:25:5-99
 	android:value
-		ADDED from Z:\app\src\main\AndroidManifest.xml:25:76-105
+		ADDED from Z:\app\src\main\AndroidManifest.xml:25:76-96
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:25:16-75
 meta-data#com.epicgames.ue4.GameActivity.bValidateTextureFormats

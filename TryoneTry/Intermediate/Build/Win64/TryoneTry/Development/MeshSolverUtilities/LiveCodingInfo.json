@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MeshSolverUtilities.cpp.obj": [
+			"LaplacianMeshSmoother.cpp.obj",
+			"LaplacianOperators.cpp.obj",
+			"MatrixSolver.cpp.obj",
+			"MeshSolverUtilitiesModule.cpp.obj"
+		]
+	}
+}

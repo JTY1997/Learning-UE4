@@ -1,0 +1,11 @@
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Development\FacialAnimation\Definitions.FacialAnimation.h
+D:/Unreal Projects/TryoneTry/Intermediate/Build/Win64/TryoneTry/Inc/FacialAnimation/AudioCurveSourceComponent.gen.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\Editor\FacialAnimation\Source\FacialAnimation/Public/AudioCurveSourceComponent.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\AudioComponent.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Animation/CurveSourceInterface.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\CurveSourceInterface.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\FacialAnimation\AudioCurveSourceComponent.generated.h
+D:/Unreal Projects/TryoneTry/Intermediate/Build/Win64/TryoneTry/Inc/FacialAnimation/FacialAnimation.init.gen.cpp

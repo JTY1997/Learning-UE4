@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TraceLog.cpp.obj": [
+			"Channel.cpp.obj",
+			"Codec.cpp.obj",
+			"Control.cpp.obj",
+			"WindowsTrace.cpp.obj",
+			"EventDef.cpp.obj",
+			"Trace.cpp.obj",
+			"Writer.cpp.obj"
+		]
+	}
+}

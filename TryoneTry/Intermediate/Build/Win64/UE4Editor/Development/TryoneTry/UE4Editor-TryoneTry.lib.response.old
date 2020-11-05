@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TryoneTry.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\UE4Editor\Development\TryoneTry\TryoneTry.cpp.obj"
+"D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\UE4Editor\Development\TryoneTry\TryoneTryCharacter.cpp.obj"
+"D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\UE4Editor\Development\TryoneTry\TryoneTryGameMode.cpp.obj"
+"D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\UE4Editor\Development\TryoneTry\TryoneTry.init.gen.cpp.obj"
+"D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\UE4Editor\Development\TryoneTry\TryoneTryCharacter.gen.cpp.obj"
+"D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\UE4Editor\Development\TryoneTry\TryoneTryGameMode.gen.cpp.obj"
+"D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\UE4Editor\Development\TryoneTry\UE4Editor-TryoneTry.lib"
+/INCLUDE:IMPLEMENT_MODULE_TryoneTry
