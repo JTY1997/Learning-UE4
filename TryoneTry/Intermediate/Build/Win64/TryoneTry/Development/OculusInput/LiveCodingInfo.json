@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.OculusInput.cpp.obj": [
-			"OculusInput.cpp.obj",
-			"OculusInputModule.cpp.obj"
-		]
-	}
-}

@@ -1,5 +1,0 @@
-Engine/Source/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Lib/armeabi-v7a/libOVRPlugin.so	2020-10-13T07:29:49.878Z
-Engine/Source/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Lib/arm64-v8a/libOVRPlugin.so	2020-10-13T08:04:37.939Z
-Engine/Source/ThirdParty/Oculus/OVRPlugin/OVRPlugin/ExtLibs/armeabi-v7a/libvrapi.so	2020-10-13T08:06:56.159Z
-Engine/Source/ThirdParty/Oculus/OVRPlugin/OVRPlugin/ExtLibs/arm64-v8a/libvrapi.so	2020-10-13T07:43:11.474Z
-UE4CommandLine.txt	79F340DD059F2752E6E5A1AE6F9240FA

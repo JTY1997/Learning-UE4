@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.AnalyticsET.cpp.obj": [
-			"AnalyticsET.cpp.obj",
-			"IAnalyticsProviderET.cpp.obj"
-		]
-	}
-}

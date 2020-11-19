@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.PhysicsSQ.cpp.obj": [
-			"PhysicsSQModule.cpp.obj",
-			"SQAccelerator.cpp.obj"
-		]
-	}
-}

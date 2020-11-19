@@ -1,2 +1,0 @@
-D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Development\TryoneTry\Definitions.TryoneTry.h
-D:\Unreal Projects\TryoneTry\Source\TryoneTry\TryoneTry.h
