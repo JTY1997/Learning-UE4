@@ -1,0 +1,5 @@
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Development\SignificanceManager\Definitions.SignificanceManager.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\Runtime\SignificanceManager\Source\SignificanceManager/Public/SignificanceManager.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\SignificanceManager\SignificanceManager.generated.h

@@ -1,0 +1,29 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ChaosSolvers.cpp.obj": [
+			"ChaosSolversModule.cpp.obj",
+			"EventDefaults.cpp.obj",
+			"EventManager.cpp.obj",
+			"CommandBuffer.cpp.obj",
+			"DebugSolverTasks.cpp.obj",
+			"Dispatcher.cpp.obj",
+			"PersistentTask.cpp.obj",
+			"PhysicsTickTask.cpp.obj",
+			"TimeStep.cpp.obj",
+			"GeometryCollectionProxyData.cpp.obj",
+			"PBDRigidActiveParticlesBuffer.cpp.obj",
+			"PBDRigidsSolver.cpp.obj",
+			"FieldSystemPhysicsProxy.cpp.obj",
+			"GeometryCollectionPhysicsProxy.cpp.obj",
+			"SingleParticlePhysicsProxy.cpp.obj",
+			"SkeletalMeshPhysicsProxy.cpp.obj",
+			"SolverEventFilters.cpp.obj",
+			"StaticMeshPhysicsObject.cpp.obj"
+		],
+		"Module.ChaosSolvers.gen.cpp.obj": [
+			"ChaosSolvers.init.gen.cpp.obj",
+			"SolverEventFilters.gen.cpp.obj"
+		]
+	}
+}

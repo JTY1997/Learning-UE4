@@ -1,0 +1,395 @@
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Development\Niagara\Definitions.Niagara.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/MovieScene/MovieSceneNiagaraSystemSpawnSection.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\MovieScene/MovieSceneNiagaraSystemSpawnSection.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraCommon.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraTypes.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/UserDefinedStruct.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\UserDefinedStruct.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraTypes.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraCore.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraCommon.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneSection.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneFwd.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequenceID.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneSequenceID.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\KeyParams.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieScene.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnable.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneSpawnable.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneBinding.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneBinding.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieScenePossessable.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieScenePossessable.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneSignedObject.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneSignedObject.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneObjectBindingID.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneFrameMigration.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneTimeController.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieScene.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendType.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneBlendType.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingFunction.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneSection.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\MovieSceneNiagaraSystemSpawnSection.generated.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/MovieScene/MovieSceneNiagaraSystemTrack.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\MovieScene/MovieSceneNiagaraSystemTrack.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\MovieScene/MovieSceneNiagaraTrack.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneNameableTrack.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrack.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneSegmentCompiler.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSegment.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneSegment.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneTrack.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneNameableTrack.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\MovieSceneNiagaraTrack.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\MovieSceneNiagaraSystemTrack.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Private\MovieScene/MovieSceneNiagaraSystemTrackTemplate.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvalTemplate.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvalTemplateBase.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePlayback.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTransform.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeTransform.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneTimeTransform.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeWarping.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneTimeWarping.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneEvalTemplateBase.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneExecutionTokens.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationKey.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackIdentifier.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneTrackIdentifier.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneEvaluationKey.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneExecutionToken.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneAnimTypeID.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationScope.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/PersistentEvaluationData.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationOperand.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneEvaluationOperand.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceInstanceData.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneSequenceInstanceData.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingAccumulator.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/BlendableToken.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingActuatorID.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingActuator.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\IMovieScenePlayer.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePreAnimatedState.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnRegister.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\IMovieSceneObjectSpawner.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationState.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/IMovieSceneMotionVectorSimulation.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingCurves.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneEasingCurves.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/BlendableTokenStack.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneInitialValueStore.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneAccumulatedBlendState.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation\Blending\MovieSceneBlendingAccumulator.inl
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneTemplateInterrogation.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneEvalTemplate.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackImplementation.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneTrackImplementation.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\MovieSceneNiagaraSystemTrackTemplate.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTrack.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTree.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneEvaluationTrack.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Compilation/IMovieSceneTemplateGenerator.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneCompilerRules.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/MovieScene/MovieSceneNiagaraSystemTrackTemplate.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraComponent.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraComponentPool.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraComponentPool.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraSystemInstance.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraEmitterInstance.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataSet.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VectorVM\Public\VectorVM.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraDataSet.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraEvents.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraEvents.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraCollision.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraEmitterHandle.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraModule.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraEmitterHandle.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraEmitter.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraScript.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\NiagaraShader\Public\NiagaraShared.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraCompileHash.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\NiagaraCore\NiagaraCompileHash.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraDataInterfaceBase.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraMergeable.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\NiagaraCore\NiagaraMergeable.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\NiagaraCore\NiagaraDataInterfaceBase.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\NiagaraShader\NiagaraShared.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\NiagaraShader\Public\NiagaraShader.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\NiagaraShader\Public\NiagaraShaderType.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Renderer\Public\SceneRenderTargetParameters.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraParameters.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraParameters.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraScriptExecutionParameterStore.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataInterface.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraDataInterface.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraParameterStore.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraParameterStore.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraScriptExecutionParameterStore.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraScriptHighlight.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraScriptHighlight.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraCustomVersion.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraScript.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\INiagaraMergeManager.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraEffectType.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\InGamePerformanceTracker.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraPlatformSet.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraPlatformSet.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraEffectType.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraEmitter.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraScriptExecutionContext.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\RHI\Public\RHIGPUReadback.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraBoundsCalculator.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraSystem.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\ParticleSystem.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraParameterCollection.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraParameterCollection.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraUserRedirectionParameterStore.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraUserRedirectionParameterStore.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraSystem.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraDataInterfaceBindingInstance.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraVariant.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraVariant.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\Emitter.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\ParticleSystemComponent.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraComponent.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTemplateInstance.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTemplateStore.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTemplate.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationField.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneEvaluationField.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceHierarchy.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSectionParameters.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneSectionParameters.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneSequenceHierarchy.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneEvaluationTemplate.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneRootOverridePath.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneEvaluationTemplateInstance.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequence.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneSequence.generated.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/MovieScene/MovieSceneNiagaraTrack.cpp
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/MovieScene/Parameters/MovieSceneNiagaraBoolParameterSectionTemplate.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Private\MovieScene\Parameters\MovieSceneNiagaraBoolParameterSectionTemplate.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Private\MovieScene/Parameters/MovieSceneNiagaraParameterSectionTemplate.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\MovieSceneNiagaraParameterSectionTemplate.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneBoolChannel.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannel.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneChannel.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelData.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneChannelData.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelTraits.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelEditorData.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneCommonHelpers.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakFieldPtr.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneBoolChannel.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\MovieSceneNiagaraBoolParameterSectionTemplate.generated.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/MovieScene/Parameters/MovieSceneNiagaraBoolParameterTrack.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\MovieScene/Parameters/MovieSceneNiagaraBoolParameterTrack.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\MovieScene/Parameters/MovieSceneNiagaraParameterTrack.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\MovieSceneNiagaraParameterTrack.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\MovieSceneNiagaraBoolParameterTrack.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieSceneTracks\Public\Sections/MovieSceneBoolSection.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieSceneTracks\MovieSceneBoolSection.generated.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/MovieScene/Parameters/MovieSceneNiagaraColorParameterSectionTemplate.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Private\MovieScene\Parameters\MovieSceneNiagaraColorParameterSectionTemplate.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneFloatChannel.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneFloatChannel.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\MovieSceneNiagaraColorParameterSectionTemplate.generated.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/MovieScene/Parameters/MovieSceneNiagaraColorParameterTrack.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\MovieScene/Parameters/MovieSceneNiagaraColorParameterTrack.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\MovieSceneNiagaraColorParameterTrack.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieSceneTracks\Public\Sections/MovieSceneColorSection.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneKeyStruct.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\MovieSceneKeyStructHelper.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneChannelHandle.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneKeyStruct.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieSceneTracks\MovieSceneColorSection.generated.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/MovieScene/Parameters/MovieSceneNiagaraFloatParameterSectionTemplate.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Private\MovieScene\Parameters\MovieSceneNiagaraFloatParameterSectionTemplate.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\MovieSceneNiagaraFloatParameterSectionTemplate.generated.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/MovieScene/Parameters/MovieSceneNiagaraFloatParameterTrack.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\MovieScene/Parameters/MovieSceneNiagaraFloatParameterTrack.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\MovieSceneNiagaraFloatParameterTrack.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieSceneTracks\Public\Sections/MovieSceneFloatSection.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieSceneTracks\MovieSceneFloatSection.generated.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/MovieScene/Parameters/MovieSceneNiagaraIntegerParameterSectionTemplate.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Private\MovieScene\Parameters\MovieSceneNiagaraIntegerParameterSectionTemplate.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneIntegerChannel.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieScene\MovieSceneIntegerChannel.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\MovieSceneNiagaraIntegerParameterSectionTemplate.generated.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/MovieScene/Parameters/MovieSceneNiagaraIntegerParameterTrack.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\MovieScene/Parameters/MovieSceneNiagaraIntegerParameterTrack.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\MovieSceneNiagaraIntegerParameterTrack.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieSceneTracks\Public\Sections/MovieSceneIntegerSection.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Curves/IntegralCurve.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\IntegralCurve.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieSceneTracks\MovieSceneIntegerSection.generated.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/MovieScene/Parameters/MovieSceneNiagaraParameterSectionTemplate.cpp
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/MovieScene/Parameters/MovieSceneNiagaraParameterTrack.cpp
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/MovieScene/Parameters/MovieSceneNiagaraVectorParameterSectionTemplate.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Private\MovieScene\Parameters\MovieSceneNiagaraVectorParameterSectionTemplate.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\MovieSceneNiagaraVectorParameterSectionTemplate.generated.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/MovieScene/Parameters/MovieSceneNiagaraVectorParameterTrack.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\MovieScene/Parameters/MovieSceneNiagaraVectorParameterTrack.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\MovieSceneNiagaraVectorParameterTrack.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\MovieSceneTracks\Public\Sections/MovieSceneVectorSection.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\MovieSceneTracks\MovieSceneVectorSection.generated.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/NDISkeletalMesh_BoneSampling.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataInterfaceSkeletalMesh.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataInterfaceMeshCommon.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraDataInterfaceMeshCommon.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshRenderData.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshLODRenderData.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\Rendering/MultiSizeIndexContainer.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshVertexBuffer.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshDuplicatedVerticesBuffer.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshVertexClothBuffer.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\Rendering/MorphTargetVertexInfoBuffers.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraDataInterfaceSkeletalMesh.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Animation/SkeletalMeshActor.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Matinee/MatineeAnimInterface.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\MatineeAnimInterface.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\SkeletalMeshActor.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Private\NiagaraStats.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NDISkeletalMeshCommon.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/NDISkeletalMesh_TriangleSampling.cpp
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/NDISkeletalMesh_VertexSampling.cpp
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/NiagaraActor.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraActor.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraActor.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Components/ArrowComponent.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\ArrowComponent.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Components/BillboardComponent.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\BillboardComponent.generated.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/NiagaraCollision.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\PhysicalMaterials/PhysicalMaterial.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Vehicles/TireType.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\TireType.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsSettingsEnums.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\PhysicsSettingsEnums.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\PhysicalMaterial.generated.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/NiagaraCommon.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraScriptSourceBase.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraScriptSourceBase.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraWorldManager.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraSystemSimulation.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraScalabilityManager.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraScalabilityManager.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraWorldManager.generated.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/NiagaraComponent.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraRenderer.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\ParticleHelper.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\MeshParticleVertexFactory.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\ParticleVertexFactory.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraSpriteRendererProperties.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraRendererProperties.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraGPUSortInfo.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\GPUSortManager.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraGPUSortInfo.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraRendererProperties.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Particles/SubUVAnimation.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CookStats.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\SubUVAnimation.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraSpriteRendererProperties.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraRibbonRendererProperties.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraRibbonRendererProperties.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraMeshRendererProperties.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraMeshRendererProperties.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraLightRendererProperties.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraLightRendererProperties.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\NiagaraVertexFactories\Public\NiagaraCutoutVertexBuffer.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraConstants.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataInterfaceStaticMesh.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraDataInterfaceStaticMesh.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\EngineUtils.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\CollisionProfile.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Renderer\Public\PrimitiveSceneInfo.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Renderer\Public\MeshPassProcessor.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Renderer\Public\MeshMaterialShader.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Renderer\Public\MaterialShader.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Renderer\Public\MeshDrawShaderBindings.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Experimental/Containers/RobinHoodHashTable.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraEmitterInstanceBatcher.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\FXSystem.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\ParticleResources.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime/Engine/Private/Particles/ParticleSortingGPU.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraGPUInstanceCountManager.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\NiagaraVertexFactories\Public\NiagaraDrawIndirect.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Private\NiagaraComponentRemoveFromPool.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/NiagaraComponentPool.cpp
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/NiagaraComponentRemoveFromPool.cpp
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/NiagaraConstants.cpp
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/NiagaraCrashReporterHandler.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraCrashReporterHandler.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/ThreadManager.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCrashContext.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/NiagaraDataInterface.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Curves/CurveVector.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\CurveVector.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Curves/CurveLinearColor.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\CurveLinearColor.generated.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/NiagaraDataInterfaceAudio.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataInterfaceAudio.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\AudioDevice.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\AudioComponent.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\SignalProcessing\Public\DSP/SpectrumAnalyzer.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\SignalProcessing\Public\DSP/Dsp.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\SignalProcessing\Public\DSP/AudioFFT.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\SignalProcessing\Public\DSP/FFTAlgorithm.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\SignalProcessing\Public\SampleBuffer.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\AudioDynamicParameter.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\AudioSettings.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundClass.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\SoundClass.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\SoundMix.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\SoundWaveProcedural.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\SoundSourceBus.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\AudioVirtualLoop.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\ActiveSound.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Public\Audio/AudioDebug.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\SignalProcessing\Public\DSP/VolumeFader.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundSubmix.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AudioExtensions\Public\IAudioEndpoint.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\SignalProcessing\Public\DSP/MultithreadedPatching.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\AudioExtensions\IAudioEndpoint.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AudioExtensions\Public\ISoundfieldEndpoint.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\AudioExtensions\ISoundfieldEndpoint.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound\SampleBufferIO.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound\SoundEffectSubmix.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\SoundEffectSubmix.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\SoundSubmix.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraDataInterfaceAudio.generated.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/NiagaraDataInterfaceAudioOscilloscope.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataInterfaceAudioOscilloscope.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraDataInterfaceAudioOscilloscope.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\ClearQuad.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\TextureRenderTarget.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\TextureRenderTarget2D.generated.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/FX/Niagara/Source/Niagara/Private/NiagaraDataInterfaceAudioSpectrum.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataInterfaceAudioSpectrum.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\SignalProcessing\Public\DSP/SlidingWindow.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\SignalProcessing\Public\DSP/DeinterleaveView.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\SignalProcessing\Public\DSP/ConstantQ.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\SignalProcessing\Public\DSP/FloatArrayMath.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Niagara\NiagaraDataInterfaceAudioSpectrum.generated.h

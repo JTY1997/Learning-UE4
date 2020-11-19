@@ -1,0 +1,21 @@
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Development\AudioCapture\Definitions.AudioCapture.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/Runtime/AudioCapture/Source/AudioCapture/Private/AudioCapture.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\Runtime\AudioCapture\Source\AudioCapture\Public\AudioCapture.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\SignalProcessing\Public\DSP/Delay.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\SignalProcessing\Public\DSP/Dsp.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\SignalProcessing\Public\DSP/WaveTableOsc.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\SignalProcessing\Public\DSP/EnvelopeFollower.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AudioMixer\Classes\Generators/AudioGenerator.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\AudioMixer\AudioGenerator.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AudioCaptureCore\Public\AudioCaptureCore.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AudioCaptureCore\Public\AudioCaptureDeviceInterface.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\AudioCapture\AudioCapture.generated.h
+D:/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Plugins/Runtime/AudioCapture/Source/AudioCapture/Private/AudioCaptureComponent.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Plugins\Runtime\AudioCapture\Source\AudioCapture\Public\AudioCaptureComponent.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AudioMixer\Public\Components/SynthComponent.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\AudioComponent.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\Engine\SoundWaveProcedural.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\AudioMixer\SynthComponent.generated.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\AudioCapture\AudioCaptureComponent.generated.h

@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{ECB212BF-4FF9-2F33-6A13-049189F7E4BB}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TryoneTry",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

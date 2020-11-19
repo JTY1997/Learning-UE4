@@ -1,0 +1,21 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\UnrealEngine\UnrealEngine\UnrealEngine).
+  Creating makefile for TryoneTryEditor (.uproject file is newer)
+  Parsing headers for TryoneTryEditor
+    Running UnrealHeaderTool "E:\Unreal Projects\TryoneTry\TryoneTry.uproject" "E:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTryEditor\Development\TryoneTryEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Programs\UnrealBuildTool\Log_UHT.txt"
+  Reflection code generated for TryoneTryEditor in 8.5683575 seconds
+  Building TryoneTryEditor and ShaderCompileWorker...
+  Using Visual Studio 2019 14.27.29112 toolchain (D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 9 actions with 16 processes...
+    [1/9] TryoneTry.init.gen.cpp
+    [2/9] TryoneTry.cpp
+    [3/9] TryoneTryGameMode.cpp
+    [4/9] TryoneTryCharacter.gen.cpp
+    [5/9] TryoneTryGameMode.gen.cpp
+    [6/9] TryoneTryCharacter.cpp
+    [7/9] UE4Editor-TryoneTry.lib
+       Creating library E:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\UE4Editor\Development\TryoneTry\UE4Editor-TryoneTry.lib and object E:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\UE4Editor\Development\TryoneTry\UE4Editor-TryoneTry.exp
+    [8/9] UE4Editor-TryoneTry.dll
+       Creating library E:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\UE4Editor\Development\TryoneTry\UE4Editor-TryoneTry.suppressed.lib and object E:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\UE4Editor\Development\TryoneTry\UE4Editor-TryoneTry.suppressed.exp
+    [9/9] TryoneTryEditor.target
+  Total time in Parallel executor: 4.60 seconds
+  Total execution time: 19.71 seconds

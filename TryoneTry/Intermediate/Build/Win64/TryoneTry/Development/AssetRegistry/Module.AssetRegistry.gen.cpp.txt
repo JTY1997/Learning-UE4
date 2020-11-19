@@ -1,0 +1,68 @@
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Development\AssetRegistry\Definitions.AssetRegistry.h
+D:/Unreal Projects/TryoneTry/Intermediate/Build/Win64/TryoneTry/Inc/AssetRegistry/ARFilter.gen.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/Package.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageId.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Misc/WorldCompositionUtility.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceError.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/ObjectThumbnail.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/CustomVersion.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Async/Future.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SparseDelegate.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPathProperty.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AssetRegistry/Public/ARFilter.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\AssetRegistry\ARFilter.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+D:/Unreal Projects/TryoneTry/Intermediate/Build/Win64/TryoneTry/Inc/AssetRegistry/AssetBundleData.gen.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AssetRegistry/Public/AssetBundleData.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\AssetRegistry\AssetBundleData.generated.h
+D:/Unreal Projects/TryoneTry/Intermediate/Build/Win64/TryoneTry/Inc/AssetRegistry/AssetData.gen.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AssetRegistry/Public/AssetData.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectRedirector.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Misc/PackageName.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerLoad.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectResource.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/Linker.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/GatherableTextData.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/InternationalizationMetadata.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageFileSummary.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/EngineVersion.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AssetRegistry\Public\AssetDataTagMap.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\AssetRegistry\AssetData.generated.h
+D:/Unreal Projects/TryoneTry/Intermediate/Build/Win64/TryoneTry/Inc/AssetRegistry/AssetRegistry.gen.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AssetRegistry/Private/AssetRegistry.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AssetRegistry\Public\IAssetRegistry.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\AssetRegistry\IAssetRegistry.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryState.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AssetRegistry\Private\PathTree.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AssetRegistry\Private\PackageDependencyData.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AssetRegistry\Private\AssetDataGatherer.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AssetRegistry\Private\DiskCachedAssetData.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AssetRegistry\Private\BackgroundGatherResults.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\AssetRegistry\AssetRegistry.generated.h
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveUObjectFromStructuredArchive.h
+D:/Unreal Projects/TryoneTry/Intermediate/Build/Win64/TryoneTry/Inc/AssetRegistry/AssetRegistry.init.gen.cpp
+D:/Unreal Projects/TryoneTry/Intermediate/Build/Win64/TryoneTry/Inc/AssetRegistry/AssetRegistryHelpers.gen.cpp
+D:\UnrealEngine\UnrealEngine\UnrealEngine\Engine\Source\Runtime\AssetRegistry/Public/AssetRegistryHelpers.h
+D:\Unreal Projects\TryoneTry\Intermediate\Build\Win64\TryoneTry\Inc\AssetRegistry\AssetRegistryHelpers.generated.h
+D:/Unreal Projects/TryoneTry/Intermediate/Build/Win64/TryoneTry/Inc/AssetRegistry/IAssetRegistry.gen.cpp
