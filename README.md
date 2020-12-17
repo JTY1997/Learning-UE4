@@ -13,4 +13,5 @@
   骨骼动画作业.mp4
   物理模拟作业.mp4
   网络联机作业.mp4
+  AI作业.mp4
 腾讯微云：https://share.weiyun.com/mTWEURK3
